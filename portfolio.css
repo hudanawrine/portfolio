@@ -1,0 +1,27 @@
+.head{
+    background-color: antiquewhite;
+    border: groove 3px rgb(152, 107, 107);
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+    
+    
+}
+p{
+    color: brown;
+}
+.border{
+    border: 2px solid tomato;
+    
+}
+.color{
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+body{
+    /* background-color: rgb(145, 232, 145); */
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+    opacity: 1;
+}
+
+
